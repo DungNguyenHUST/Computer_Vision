@@ -1,0 +1,6 @@
+c:\users\dung2.nguyen\documents\visual studio 2015\Projects\CP_Test\CP_Test\bin\Debug\CP_Test.exe.config
+c:\users\dung2.nguyen\documents\visual studio 2015\Projects\CP_Test\CP_Test\bin\Debug\CP_Test.exe
+c:\users\dung2.nguyen\documents\visual studio 2015\Projects\CP_Test\CP_Test\bin\Debug\CP_Test.pdb
+c:\users\dung2.nguyen\documents\visual studio 2015\Projects\CP_Test\CP_Test\obj\Debug\CP_Test.csprojResolveAssemblyReference.cache
+c:\users\dung2.nguyen\documents\visual studio 2015\Projects\CP_Test\CP_Test\obj\Debug\CP_Test.exe
+c:\users\dung2.nguyen\documents\visual studio 2015\Projects\CP_Test\CP_Test\obj\Debug\CP_Test.pdb
